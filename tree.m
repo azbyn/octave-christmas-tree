@@ -1,3 +1,4 @@
+%(horrible version made for fitting in one file)
 f = figure(1);
 hold on
 axis equal
@@ -69,3 +70,5 @@ d(pi*.75, 'd', [.75 .75 .75]);
 d(pi*1.8, 'd', [.75 .75 .75]);
 
 hold off
+
+uiwait(f);
