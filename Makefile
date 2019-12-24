@@ -1,0 +1,2 @@
+main:
+	@octave tree.m
